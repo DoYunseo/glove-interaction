@@ -1,0 +1,5 @@
+openai
+pydub
+pupil-labs-realtime-api
+opencv-python
+python-dotenv
