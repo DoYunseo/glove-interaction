@@ -4,5 +4,6 @@ output/
 assistant/output
 assistant/exp
 assistant/exp1
+assistant/.env
 TripoSR/output
 sam_vit_h.pth
