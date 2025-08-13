@@ -1,0 +1,8 @@
+# Ignore specific folders
+contactgen/
+output/
+assistant/output
+assistant/exp
+assistant/exp1
+TripoSR/output
+sam_vit_h.pth
